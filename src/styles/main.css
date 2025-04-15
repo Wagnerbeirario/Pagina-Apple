@@ -329,6 +329,57 @@ footer span{
 /* Responsive Styles */
 
 @media(max-width: 734px){
+    p{
+        font-size:  1rem;
+    }
+
+    .main{
+        padding: 5rem;
+    }
+
+    .main_title{
+        font-family: 1.25rem;
+    }
+
+    .main_subtitle{
+        font-size: 2.5rem;
+    }
+
+    .main_copy-text{
+        font-size: 1.65rem;
+    }
+
+
+    .main_description{
+        width: 90%;
+    }
+
+    section{
+        width: 60%;
+    }
+
+    .section-design_midea-image{
+        width: 100%;
+        height: auto;
+    }
+
+    .section-design_subtitle{
+        font-size: 2.5rem;
+    }
+
+    .subsection-size_screen-container{
+        height: 350px;
+        margin: 3.5rem 0 1rem;
+    }
+
+    .subsection-size_screen-text{
+        font-size: 2.5rem;
+    }
+
+    .subsection-size_screen-text span{
+        font-size: 2.5rem;
+    }
+    
     .subsection-colors{
         display: flex;
         flex-direction: column-reverse;
